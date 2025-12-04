@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Travel-Booking/static/css/main.3982bb5f.css",
-    "main.js": "/Travel-Booking/static/js/main.aba68531.js",
+    "main.js": "/Travel-Booking/static/js/main.4ae47cd2.js",
     "index.html": "/Travel-Booking/index.html",
     "main.3982bb5f.css.map": "/Travel-Booking/static/css/main.3982bb5f.css.map",
-    "main.aba68531.js.map": "/Travel-Booking/static/js/main.aba68531.js.map"
+    "main.4ae47cd2.js.map": "/Travel-Booking/static/js/main.4ae47cd2.js.map"
   },
   "entrypoints": [
     "static/css/main.3982bb5f.css",
-    "static/js/main.aba68531.js"
+    "static/js/main.4ae47cd2.js"
   ]
 }
