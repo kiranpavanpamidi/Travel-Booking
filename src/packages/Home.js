@@ -1,5 +1,5 @@
 import React from 'react';
-import DestinationCard from '../UserStory1/DestinationCard';
+import DestinationCard from '../Homepage/DestinationCard';
 
 const destinations = [
   { name: 'Paris', image: 'https://picsum.photos/200/100?1', price: 120000 },

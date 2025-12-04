@@ -1,10 +1,10 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
-import Header from './UserStory1/Header';
-import Footer from './UserStory1/Footer';
-import Home from './UserStory2/Home';
-import Packages from './UserStory2/Packages';
-import BookingForm from './UserStory3/BookingForm';
+import { HashRouter as Router, Routes, Route, Link } from 'react-router-dom';
+import Header from './Homepage/Header';
+import Footer from './Homepage/Footer';
+import Home from './packages/Home';
+import Packages from './packages/Packages';
+import BookingForm from './Booking/BookingForm';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
