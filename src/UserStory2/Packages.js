@@ -6,7 +6,7 @@ const Packages = () => {
 
   useEffect(() => {
     axios
-      .get("http://localhost:5000/packages")
+      .get('https://travel-booking-backend-p13k.onrender.com/packages')
       .then((response) => {
         setPackages(response.data);
       })
